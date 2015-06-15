@@ -1,2 +1,2 @@
 # datasciencecoursera
-My repo for Data Science Class
+Francenelson's repository for Data Science Class.
